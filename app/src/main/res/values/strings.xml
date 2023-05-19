@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Trip Bogor</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_search">Cari</string>
+    <string name="title_profile">Profil</string>
+    <string name="tour_title">Tour Title</string>
+    <string name="tour_description">Tour Description</string>
+
+    <string name="paralayang">Paralayang Bukit Gantole Puncak</string>
+    <string name="bunga">Taman Bunga Nusantara</string>
+    <string name="highland">Highland Park Resort</string>
+    <string name="taman_wisata">Taman Wisata Gunung Pancar</string>
+    <string name="curug_cibaliung">Curug Cibaliung</string>
+    <string name="pemandian_air">Tirta Sanita Ciseeng</string>
+</resources>
