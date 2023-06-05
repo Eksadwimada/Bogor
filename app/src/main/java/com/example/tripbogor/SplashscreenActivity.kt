@@ -1,10 +1,10 @@
 package com.example.tripbogor
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
 import android.view.WindowManager
+import androidx.appcompat.app.AppCompatActivity
 
 @Suppress("DEPRECATION")
 class SplashscreenActivity : AppCompatActivity() {
@@ -19,7 +19,7 @@ class SplashscreenActivity : AppCompatActivity() {
         supportActionBar?.hide()
 
         Handler().postDelayed({
-            startActivity(Intent(this, MainActivity::class.java))
+            startActivity(Intent(this, RegisterActivity::class.java))
             finish()
         }, 3000)
         // ketika aplikasi pertama kli dibuka dia menuju splashcreen dan akan delay
